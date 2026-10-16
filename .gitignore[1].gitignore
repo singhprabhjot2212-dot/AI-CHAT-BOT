@@ -1,0 +1,11 @@
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+*.local
+config.properties
